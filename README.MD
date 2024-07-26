@@ -12,7 +12,7 @@
 
 ###
 
-<h1 align="center">Olá 👋 sou Ydania Laya!</h1>
+<h1 align="center">Olá 👋 sou Ydania Laya</h1>
 
 ###
 
