@@ -19,7 +19,7 @@ Com formação e experiência em administração e contabilidade, trago uma abor
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Linguagem e ferramentas</h3>
 
 ###
 
@@ -45,18 +45,15 @@ Com formação e experiência em administração e contabilidade, trago uma abor
 
 ###
 
-<h3 align="left">🔥   Meu contato :</h3>
+<h3 align="left">🔥   Meu contato:</h3>
 
-###
 
-<div align="left">
+   <a href ="https://www.linkedin.com/in/ydania-laya/" >
+   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="linkedin logo"  />
+  <img width="12" />
 
-    
-    <a href="https://www.linkedin.com/in/ydania-laya/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white>
-    </a>
-  
-</div>
+ </a>     
+
 
 *QA é uma carreira para quem ama Software, tem atenção aos detalhes e se dedica a fornecer a melhor experiência possível para o usuário.*
 
