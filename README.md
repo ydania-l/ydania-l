@@ -53,10 +53,6 @@ Com formação e experiência em administração e contabilidade, trago uma abor
   <img width="12" />
  </a>     
 
-  <a href ="layaydania13@gmail.com" >
-   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Gmail logo"  />
-  <img width="12" />
- </a> 
 
 *QA é uma carreira para quem ama Software, tem atenção aos detalhes e se dedica a fornecer a melhor experiência possível para o usuário.*
 
