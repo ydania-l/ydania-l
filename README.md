@@ -52,8 +52,9 @@ Com formação e experiência em administração e contabilidade, trago uma abor
 <div align="left">
 
     
-    [LinkedIn](https://www.linkedin.com/in/ydania-laya/)
-    [GitHub](https://github.com/ydania-l)
+    <a href="https://www.linkedin.com/in/ydania-laya/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white>
+    </a>
   
 </div>
 
